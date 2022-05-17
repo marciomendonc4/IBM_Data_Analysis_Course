@@ -1,5 +1,9 @@
-# IBM_Data_Analysis_Course
-<ul>
+# IBM Data Analyst Course
+##This is a Professional Course offered by IBM, divided in 8 modules throughout roughly 40 weeks.
+
+
+Course entire syllabus:
+<ul###>
     <li>
         <a href="https://drive.google.com/file/d/1Ls5PJoRC-cGUIhFipGBWP_IhDGQRfnjH/view?usp=sharing" target="_blank">Introduction to Data Analytics</a>
     </li>
