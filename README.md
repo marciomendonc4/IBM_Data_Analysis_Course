@@ -3,7 +3,8 @@
 # IBM Data Analyst Course
 ## This is a Professional Course offered by IBM, divided in 8 modules throughout roughly 40 weeks.
 
-### Course Syllabus:
+ *Please, feel free to confirm the validity of my certificates at my [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/) profile.*
+### Course Certificates:
 <ul>
     <li>
         <a href="https://drive.google.com/file/d/1Ls5PJoRC-cGUIhFipGBWP_IhDGQRfnjH/view?usp=sharing" target="_blank">Introduction to Data Analytics</a>
@@ -41,7 +42,8 @@
 ## Este é o Curso Profissional sobre Análise de Dados oferecido pela IBM. Este curso é dividido em 8 módulos com duração média de 40 semanas.
 
 
-### Programa de Estudos:
+*Sinta-se livre para confirmar a validade dos meus certificados em meu perfil do [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/)*
+### Certificados
 <ul>
     <li>
         <a href="https://drive.google.com/file/d/1Ls5PJoRC-cGUIhFipGBWP_IhDGQRfnjH/view?usp=sharing" target="_blank">Introduction to Data Analytics</a>
